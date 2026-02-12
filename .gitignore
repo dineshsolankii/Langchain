@@ -1,3 +1,4 @@
 #Langchain
 venv
 /venv
+.env
