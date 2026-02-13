@@ -1,0 +1,4 @@
+Dinesh is learning LangChain to build AI agents.
+He works with n8n and automation.
+He wants to build intelligent multi-step AI systems.
+LangChain helps connect LLMs with tools and memory.
