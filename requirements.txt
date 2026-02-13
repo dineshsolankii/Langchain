@@ -5,3 +5,4 @@ openai
 python-dotenv
 langchain-community
 langchain-core
+faiss-cpu # for local vector store
